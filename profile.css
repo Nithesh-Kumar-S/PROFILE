@@ -1,0 +1,107 @@
+*{ 
+  
+  text-decoration: none;
+  
+}
+
+#name{
+    font-size: xx-large;
+}
+
+#intro{
+    margin-top: -30px;
+    border-top: 0px;
+    padding-left: 700px;
+    padding-right: 0px;
+    display: flex;
+    list-style: none;
+    font-size: x-large;
+    background-image: url(../dodge/backgound.jpg);
+  
+    
+}
+
+a{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    padding: 8px;
+}
+
+
+a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+#pic{
+    height: 150px;
+   
+    margin-left: 65px;
+    
+    border: 3px solid white; 
+}
+
+#home{
+    padding-top: 50px;
+     text-align: center;
+     background-color: black;
+     color: aliceblue;
+     padding-bottom: 50px;
+}
+
+.thor{
+    height: 35px;  
+    background: none;
+    
+   
+}
+
+#cherry{
+    background: none;
+}
+
+#aboutme{
+    text-align: center;
+    font-size: x-large;
+}
+
+#education{
+        text-align: center;
+        font-size: x-large;
+        position: relative;
+        border: 1px solid black;
+        border-collapse: collapse;
+        width: 800px;
+        height: 300px;
+}
+
+#noth{
+     text-align: center;
+
+}
+
+.ragnar{
+    color: white;
+    background-color: black;
+    
+}
+
+#bar{
+    text-align: center;
+    list-style: none;
+    font-size: 25px;
+}
+
+.contact{
+    text-align: center;
+ 
+    
+}
+
+#skills{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
